@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1641891072 source:c:\oji\modificare_proiect_9.01.2022\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<ctime>
+	<ctype.h>
+	<stdio.h>
+	<cstring>
+	<cmath>
+	<thread>
+	<windows.h>
+	<mmsystem.h>
+
